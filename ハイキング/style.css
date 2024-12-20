@@ -1,0 +1,10 @@
+.images{
+    image:url("img/IMG_7239.jpg");
+    size: cover;
+    position: center;
+    repeat: no-repeat;
+    width: 100vw;
+    height: 100vw;
+    margin: 0;
+    padding: 0;
+}
